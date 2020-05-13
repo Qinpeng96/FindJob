@@ -3,7 +3,7 @@ Create this repo for me to fina a job
 1. 互联网目标企业 \
 小米\
 华为\
-腾讯\
+腾讯
 2. 航天目标企业\
 星际荣耀\
 航天国企
