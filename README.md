@@ -9,11 +9,6 @@ Create this repo for me to fina a job
 航天国企
 
 ## Folder
-* /DL\
-深度学习面试资料和笔记
-* /ML\
-机器学习面试资料和笔记
-* /Coding\
-算法、编程面试资料和笔记
-* /JobOffers\
-汇总各厂招聘信息
+* 编程:Python Leetcode 编程笔记
+* 面试经验:汇总前辈面试经验
+* 岗位信息:汇总各厂招聘信息
