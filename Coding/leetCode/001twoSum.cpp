@@ -34,7 +34,8 @@ public:
     }
 };
 
-int main(int argc,char** argv){
+int main(int argc,char** argv)
+{
     Solution a = Solution();
     vector<int> arr = {1,2,6,4};
     vector<int> num = a.twoSum(arr,9);
