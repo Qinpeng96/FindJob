@@ -1,4 +1,5 @@
 ##############LeetCode之hashmap##################
+
 import numpy as np 
 from typing import List
 
